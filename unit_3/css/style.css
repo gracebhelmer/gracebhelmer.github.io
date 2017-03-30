@@ -1,12 +1,7 @@
 body {
 	background-image: url("/Users/ghelmer/Desktop/gracebhelmer.github.io/unit_3/images/adam-birkett-216657.jpg");
-    background-repeat: no-repeat;
-    background-position: right top;
-    background-attachment: fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
+    background-repeat:no-repeat;
+    background-size:cover;
 }
 
 h1, p, ul, li{
