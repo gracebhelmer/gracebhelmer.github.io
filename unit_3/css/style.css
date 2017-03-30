@@ -1,14 +1,16 @@
 body {
-	background-color: #cdcdcd;
+	background-image: url("/Users/ghelmer/Desktop/gracebhelmer.github.io/unit_3/images/adam-birkett-216657.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
 }
 
-h1, p {
-    color: white;
+h1, p, ul, li{
+    color: #faf0e6;
 	font-family: 'Playfair Display', serif;
 }
 
-ul
-li
+
 img
 
 #slogan {
