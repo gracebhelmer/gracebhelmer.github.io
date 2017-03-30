@@ -4,7 +4,7 @@ body {
 
 h1, p {
     color: white;
-    font-family: 'Open Sans Condensed', sans-serif;
+	font-family: 'Playfair Display', serif;
 }
 
 ul
@@ -13,5 +13,4 @@ img
 
 #slogan {
 	font-style: italic;
-	font-family: 'Playfair Display', serif;
 }
