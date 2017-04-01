@@ -1,7 +1,7 @@
 body {
-	background-image: url("/Users/ghelmer/Desktop/gracebhelmer.github.io/unit_4/images/background.jpg");
     background-repeat:no-repeat;
     background-size:cover;
+    background-image:url('../racebhelmer.github.io/unit_4/images/background.jpg');
 }
 
 h1, p, ul, li{
